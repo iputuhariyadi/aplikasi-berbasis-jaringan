@@ -1,0 +1,1 @@
+Kode program yang digunakan pada workshop Aplikasi Berbasis Jaringan yang diselenggarakan oleh Kelompok Studi Network Community (NETCOM) STMIK Bumigora. Kode program ini digunakan untuk memanajemen user hotspot menggunakan Framework CodeIgniter yang diintegrasikan dengan Mikrotik PHP API.
